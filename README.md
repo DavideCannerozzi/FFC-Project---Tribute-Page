@@ -7,7 +7,7 @@ Free Code Camp Projects - 1. Tribute Page
 <hr /> 
 <h1> Responsive </h1>
 <hr />
-![screenshot](https://i.imgur.com/4idquL5.png)
+![screenshot](https://i.imgur.com/4idquL5m.png)
 
 -Html5 <br />
 -CSS3 <br />
