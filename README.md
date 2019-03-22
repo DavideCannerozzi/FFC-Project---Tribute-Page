@@ -3,7 +3,6 @@ Free Code Camp Projects - 1. Tribute Page
 
 ![screenshot](https://i.imgur.com/PtnpmsK.png)
 <hr /> 
-<h1> Responsive </h1>
 <hr />
 ![screenshot](https://i.imgur.com/4idquL5m.png)
 
